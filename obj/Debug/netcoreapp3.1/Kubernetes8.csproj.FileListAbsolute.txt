@@ -1,0 +1,342 @@
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.AssemblyInfoInputs.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.AssemblyInfo.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorAssemblyInfo.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorAssemblyInfo.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.TagHelpers.input.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.TagHelpers.output.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorCoreGenerate.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorTargetAssemblyInfo.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorTargetAssemblyInfo.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes8.StaticWebAssets.Manifest.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes8.StaticWebAssets.xml
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.exe
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.deps.json
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.runtimeconfig.json
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.runtimeconfig.dev.json
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.pdb
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.Views.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.Views.pdb
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csprojAssemblyReference.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.Views.pdb
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.pdb
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.genruntimeconfig.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csproj.CopyComplete
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csproj.CoreCompileInputs.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\View2.cshtml.g.cs
+C:\Users\tamaraq\source\repos\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.exe
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.deps.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.runtimeconfig.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.runtimeconfig.dev.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.pdb
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.Views.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.Views.pdb
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csprojAssemblyReference.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.AssemblyInfoInputs.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.AssemblyInfo.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csproj.CoreCompileInputs.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorAssemblyInfo.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorAssemblyInfo.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.TagHelpers.input.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.TagHelpers.output.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorCoreGenerate.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\View2.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorTargetAssemblyInfo.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorTargetAssemblyInfo.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.Views.pdb
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csproj.CopyComplete
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes8.StaticWebAssets.Manifest.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes8.StaticWebAssets.xml
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.dll
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.pdb
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.genruntimeconfig.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\eng. Majdi\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.exe
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.deps.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.runtimeconfig.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.runtimeconfig.dev.json
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.pdb
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.Views.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Kubernetes8.Views.pdb
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csprojAssemblyReference.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.AssemblyInfoInputs.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.AssemblyInfo.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csproj.CoreCompileInputs.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorAssemblyInfo.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorAssemblyInfo.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.TagHelpers.input.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.TagHelpers.output.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorCoreGenerate.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\View2.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorTargetAssemblyInfo.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.RazorTargetAssemblyInfo.cs
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.Views.pdb
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.csproj.CopyComplete
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes8.StaticWebAssets.Manifest.cache
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\staticwebassets\Kubernetes8.StaticWebAssets.xml
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.dll
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.pdb
+C:\Users\majdi.MOPWH\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Kubernetes8.genruntimeconfig.cache
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\View.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\View1.cshtml.g.cs
+C:\Users\eng. Majdi\Desktop\Kubernetes8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
