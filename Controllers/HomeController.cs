@@ -5,36 +5,216 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Kubernetes8.Models;
+using Kubernetes12.Models;
+using System.Data.SqlClient;
 
-namespace Kubernetes8.Controllers
+namespace Kubernetes12.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly ILogger<HomeController> _logger;
 
-
-        static IList<Models.Student> studentList = new List<Models.Student>{
-                new Models.Student() { MasterStudentId = 1, MasterStudentName = "Majdi Jaradat", Age = 47, Address= " RAMALLAH", Occupation= "IT Director", Company= " Ministry Of Works" } ,
-                new Models.Student() { MasterStudentId = 2, MasterStudentName = "Ahmad Abdelbaset",  Age = 26, Address= " Jerusalem", Occupation= " Developer", Company= " ===="  } ,
-                new Models.Student() { MasterStudentId = 3, MasterStudentName = "Saad Alsaad",  Age = 27, Address= " Jenin", Occupation= " Developer", Company= "Hari" } ,
-                new Models.Student() { MasterStudentId = 4, MasterStudentName = "Rami Ahmad" , Age = 25, Address= " RAMALLAH" } ,
-                new Models.Student() { MasterStudentId = 5, MasterStudentName = "Sami Ali" , Age = 31, Address= " RAMALLAH" } ,
-                new Models.Student() { MasterStudentId = 6, MasterStudentName = "Riyad Ahmad" , Age = 33, Address= " RAMALLAH" } ,
-                new Models.Student() { MasterStudentId = 7, MasterStudentName = "Mohammad Radi" , Age = 40, Address= " RAMALLAH" } ,
-                new Models.Student() { MasterStudentId = 8, MasterStudentName = "Shadi Matar" , Age = 45, Address= " RAMALLAH" } ,
-            };
-
-
-
-
-
-
-        public ActionResult Index()
+        public HomeController(ILogger<HomeController> logger)
         {
-            //fetch students from the DB using Entity Framework here
-
-            return View(studentList);
+            _logger = logger;
         }
 
+        //  public IActionResult Index()
+        //  {
+
+
+        //      SqlConnection conn = new SqlConnection();
+        //      conn.ConnectionString = "data source=localhost;initial catalog=containerdb;user id=sa;password=1234@abcd";
+        //      String sql = "SELECT * FROM pro";
+        //      SqlCommand cmd = new SqlCommand(sql, conn);
+
+
+        //     conn.Open();
+        //      SqlDataReader rdr = cmd.ExecuteReader();
+        //      var model = new List<pro>();
+        //      while (rdr.Read())
+        //      {
+        //          var student = new pro();
+        //          student.proId = (int)rdr["proId"];
+        //          student.proName = (string)rdr["proName"];
+        //          model.Add(student);
+        //      }
+
+        //      return View(model);
+        //  }
+
+
+
+
+
+
+        //   public IActionResult students()
+        //  {
+
+
+        //       SqlConnection conn = new SqlConnection();
+        //       conn.ConnectionString = "data source=localhost;initial catalog=containerdb;user id=sa;password=1234@abcd";
+        //       String sql = "SELECT * FROM pro";
+        //       SqlCommand cmd = new SqlCommand(sql, conn);
+
+
+        //       conn.Open();
+        //       SqlDataReader rdr = cmd.ExecuteReader();
+        //       var model = new List<pro>();
+        //       while (rdr.Read())
+        //       {
+        //           var student = new pro();
+        //           student.proId = (int)rdr["proId"];
+        //           student.proName = (string)rdr["proName"];
+        //           model.Add(student);
+        //       }
+
+        //       return View(model);
+        //   }
+
+
+
+        public IActionResult stu()
+        {
+
+
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "data source=localhost;initial catalog=containerdb;user id=sa;password=1234@abcd";
+            String sql = "SELECT * FROM students";
+            SqlCommand cmd = new SqlCommand(sql, conn);
+
+
+            conn.Open();
+            SqlDataReader rdr = cmd.ExecuteReader();
+            var model = new List<studentss>();
+            while (rdr.Read())
+            {
+                var studentss = new studentss();
+
+
+                studentss.MasterStudentId = (int)rdr["MasterStudentId"];
+                studentss.MasterStudentName = (string)rdr["MasterStudentName"];
+
+                studentss.Age = (int)rdr["Age"];
+                studentss.Address = (string)rdr["Address"];
+                studentss.Occupation = (string)rdr["Occupation"];
+                studentss.Company = (string)rdr["Company"];
+
+
+                model.Add(studentss);
+            }
+
+            return View(model);
+        }
+
+
+
+
+        public IActionResult Student3()
+        {
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "data source=localhost;initial catalog=containerdb;user id=sa;password=1234@abcd";
+            String sql = "SELECT * FROM students";
+            SqlCommand cmd = new SqlCommand(sql, conn);
+
+
+            conn.Open();
+            SqlDataReader rdr = cmd.ExecuteReader();
+            var model = new List<studentss>();
+            while (rdr.Read())
+            {
+                var studentss = new studentss();
+
+
+                studentss.MasterStudentId = (int)rdr["MasterStudentId"];
+                studentss.MasterStudentName = (string)rdr["MasterStudentName"];
+
+                studentss.Age = (int)rdr["Age"];
+                studentss.Address = (string)rdr["Address"];
+                studentss.Occupation = (string)rdr["Occupation"];
+                studentss.Company = (string)rdr["Company"];
+
+
+                model.Add(studentss);
+            }
+
+            return View(model);
+
+        }
+
+        public ActionResult Edit(int Id)
+        {
+            //here, get the student from the database in the real application
+
+            //getting a student from collection for demo purpose
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "data source=localhost;initial catalog=containerdb;user id=sa;password=1234@abcd";
+            String sql = "SELECT * FROM students";
+            SqlCommand cmd = new SqlCommand(sql, conn);
+
+
+            conn.Open();
+            SqlDataReader rdr = cmd.ExecuteReader();
+            var model = new List<studentss>();
+            while (rdr.Read())
+            {
+                var studentss = new studentss();
+
+
+                studentss.MasterStudentId = (int)rdr["MasterStudentId"];
+                studentss.MasterStudentName = (string)rdr["MasterStudentName"];
+
+                studentss.Age = (int)rdr["Age"];
+                studentss.Address = (string)rdr["Address"];
+                studentss.Occupation = (string)rdr["Occupation"];
+                studentss.Company = (string)rdr["Company"];
+               
+               return View(model);
+            }
+            return RedirectToAction("student3");
+        }
+
+        [HttpPost]
+        public ActionResult Edit(studentss rdr)
+        {
+            //here, get the student from the database in the real application
+
+            //getting a student from collection for demo purpose
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "data source=localhost;initial catalog=containerdb;user id=sa;password=1234@abcd";
+            String sql = "SELECT * FROM students";
+            SqlCommand cmd = new SqlCommand(sql, conn);
+
+
+            conn.Open();
+            SqlDataReader rdr2 = cmd.ExecuteReader();
+            var model = new List<studentss>();
+            while (rdr2.Read())
+            {
+                var studentss = new studentss();
+
+
+                studentss.MasterStudentId = (int)rdr2["MasterStudentId"];
+                studentss.MasterStudentName = (string)rdr2["MasterStudentName"];
+
+                studentss.Age = (int)rdr2["Age"];
+                studentss.Address = (string)rdr2["Address"];
+                studentss.Occupation = (string)rdr2["Occupation"];
+                studentss.Company = (string)rdr2["Company"];
+                model.Remove(rdr);
+
+                model.Add(rdr);
+             //  return View(rdr);
+            }
+            return RedirectToAction("edit");
+
+
+        }
     }
+
+
+
+
 }
+
+

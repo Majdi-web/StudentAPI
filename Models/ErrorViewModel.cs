@@ -1,6 +1,6 @@
 using System;
 
-namespace Kubernetes8.Models
+namespace Kubernetes12.Models
 {
     public class ErrorViewModel
     {

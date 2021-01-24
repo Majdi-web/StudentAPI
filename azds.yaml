@@ -4,7 +4,7 @@ build:
   context: .
   dockerfile: Dockerfile
 install:
-  chart: charts/kubernetes8
+  chart: charts/kubernetes12
   values:
   - values.dev.yaml?
   - secrets.dev.yaml?
@@ -20,17 +20,17 @@ install:
     #   - name: myRegistryKeySecretName
     replicaCount: 1
     image:
-      repository: kubernetes8
+      repository: kubernetes12
       tag: $(tag)
       pullPolicy: Never
     ingress:
       annotations:
         kubernetes.io/ingress.class: traefik-azds
       hosts:
-      # This expands to form the service's public URL: [space.s.][rootSpace.]kubernetes8.<random suffix>.<region>.azds.io
-      # Customize the public URL by changing the 'kubernetes8' text between the $(rootSpacePrefix) and $(hostSuffix) tokens
+      # This expands to form the service's public URL: [space.s.][rootSpace.]kubernetes12.<random suffix>.<region>.azds.io
+      # Customize the public URL by changing the 'kubernetes12' text between the $(rootSpacePrefix) and $(hostSuffix) tokens
       # For more information see https://aka.ms/devspaces/routing
-      - $(spacePrefix)$(rootSpacePrefix)kubernetes8$(hostSuffix)
+      - $(spacePrefix)$(rootSpacePrefix)kubernetes12$(hostSuffix)
 configurations:
   develop:
     build:
@@ -46,6 +46,6 @@ configurations:
       - "!**/*.{sln,csproj}"
       command: [dotnet, run, --no-restore, --no-build, --no-launch-profile, -c, "${BUILD_CONFIGURATION:-Debug}"]
       iterate:
-        processesToKill: [dotnet, vsdbg, Kubernetes8]
+        processesToKill: [dotnet, vsdbg, Kubernetes12]
         buildCommands:
         - [dotnet, build, --no-restore, -c, "${BUILD_CONFIGURATION:-Debug}"]

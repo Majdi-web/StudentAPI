@@ -1,76 +1,8 @@
-﻿@model IEnumerable<Kubernetes8.Models.Student>
-
-@{
-    ViewData["Title"] = "Index ";
-
+﻿@{
+    ViewData["Title"] = "Home Page";
 }
 
-<h1>API Application</h1>
-<h1> Display the list of master's students, with the possibility of modification and deletion. </h1>
-
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.MasterStudentId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MasterStudentName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Age)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Address)
-            </th>
-
-            <th>
-                @Html.DisplayNameFor(model => model.Occupation)
-            </th>
-
-            <th>
-                @Html.DisplayNameFor(model => model.Company)
-            </th>
-
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.MasterStudentId)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.MasterStudentName)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Age)
-                </td>
-
-                <td>
-                    @Html.DisplayFor(modelItem => item.Address)
-                </td>
-
-                <td>
-                    @Html.DisplayFor(modelItem => item.Occupation)
-                </td>
-
-                <td>
-                    @Html.DisplayFor(modelItem => item.Company)
-                </td>
-
-                <td>
-                    @Html.ActionLink("Edit", "Edit", new { id = item.MasterStudentId }) |
-                    @Html.ActionLink("Details", "Details", new {  id=item.MasterStudentId  }) |
-                    @Html.ActionLink("Delete", "Delete", new {  id=item.MasterStudentId })
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

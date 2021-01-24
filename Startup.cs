@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace Kubernetes8
+namespace Kubernetes12
 {
     public class Startup
     {
@@ -46,7 +46,7 @@ namespace Kubernetes8
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=student3}/{id?}");
             });
         }
     }
